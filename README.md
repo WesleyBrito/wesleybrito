@@ -9,7 +9,7 @@ Apaixonado por resolver problemas complexos e otimizar processos, sempre alinhan
 
 Se você deseja impulsionar projetos tecnológicos ou discutir soluções estratégicas em engenharia de software, Wesley está sempre aberto para compartilhar ideias e explorar novas oportunidades!
 
-<p align="left">
+<!--<p align="left">
     <a href="[https://github.com/Larissakich?tab=repositories&sort=stargazers]">
         <img 
             alt="Total de estrelas" 
@@ -25,6 +25,7 @@ Se você deseja impulsionar projetos tecnológicos ou discutir soluções estrat
         />
     </a>
 </p>
+-->
 
 ---
 
