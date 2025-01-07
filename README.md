@@ -1,6 +1,6 @@
 # 🧟 Wesley Brito
 
-**`Software Engineer`**
+**`Software Engineer / Delivery Manager`**
 
 Engenheiro de software com sólida experiência em desenvolvimento e implementação de soluções tecnológicas eficientes e inovadoras. Com uma abordagem prática e foco em resultados, desenvolvendo aplicações robustas e escaláveis.
 
