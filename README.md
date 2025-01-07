@@ -6,7 +6,7 @@ Engenheiro de software com sólida experiência em desenvolvimento e implementa�
 
 Apaixonado por resolver problemas complexos e otimizar processos, sempre alinhando tecnologia às necessidades do negócio.
 
-Se você deseja impulsionar projetos tecnológicos ou discutir soluções estratégicas em engenharia de software, Wesley está sempre aberto para compartilhar ideias e explorar novas oportunidades!
+Sempre aberto para compartilhar ideias e explorar novas oportunidades!
 
 <!--<p align="left">
     <a href="[https://github.com/Larissakich?tab=repositories&sort=stargazers]">
