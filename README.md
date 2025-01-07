@@ -1,4 +1,3 @@
-<div style=backgroundColor="black">
 # 🧟 Wesley Brito
 
 **`Software Engineer`**
@@ -298,4 +297,3 @@ Implementação de funcionalidades específicas para atender às necessidades ú
 
 </p>
 -->
-</div>
